@@ -1,1 +1,1 @@
-Esta es una prueba para probar el versionamiento.
+Esta es una prueba para probar los versionamientos.
